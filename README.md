@@ -1,0 +1,2 @@
+# JavaAccessBridge
+使用C语言加载WindowsAccessBridge-64.dll并把其函数暴露给JavaScript调用以达到使用JavaScript操作Java界面的目的
