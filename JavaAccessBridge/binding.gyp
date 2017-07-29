@@ -2,11 +2,11 @@
   "targets": [
     {
       "target_name": "JavaAccessBridge",
-      "sources": [ "JavaAccessBridge.cc" ],
+      "sources": [ "jab.cc" ],
       "include_dirs": [ 
-          "C:\\Program Files\\Java\\jdk1.8.0_131\\include",
-          "C:\\Program Files\\Java\\jdk1.8.0_131\\include\\win32",
-          "C:\\Program Files\\Java\\jdk1.8.0_131\\include\\win32\\bridge",
+		  "C:\\Users\\king\\Desktop\\jdk1.8.0_131\\include",
+		  "C:\\Users\\king\\Desktop\\jdk1.8.0_131\\include\\win32",
+		  "C:\\Users\\king\\Desktop\\jdk1.8.0_131\\include\\win32\\bridge"
       ]
     }
   ]
